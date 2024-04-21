@@ -1,5 +1,5 @@
 ## Community-maintained list of SWGoH Tools and Resources
-- [Original source by Reddit user /u/Alexmo1999](https://www.reddit.com/r/SWGalaxyOfHeroes/comments/1c7oo0k/all_the_swgoh_tools_and_resources_in_one_place/?share_id=Rp_iSkbtxkzcKjUcO3MDb&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1)
+- [Original source by Reddit user /u/Alecmo1999](https://www.reddit.com/r/SWGalaxyOfHeroes/comments/1c7oo0k/all_the_swgoh_tools_and_resources_in_one_place/?share_id=Rp_iSkbtxkzcKjUcO3MDb&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1)
 - Submit a Pull Request or Issue for modifications to this list.
 
 # SWGoH Tools:
