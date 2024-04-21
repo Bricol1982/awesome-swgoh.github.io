@@ -1,1 +1,2 @@
-## awesome-swgoh - awesome list of tools and resources
+## Community-maintained list of SWGoH tools and resources, all in one place 
+
