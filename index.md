@@ -26,6 +26,7 @@
 20. [**SWGoH Team Manager** ](https://swgohteammanager.com/)
 21. [**Interactive Geonosis TB Map**](https://genskaar.github.io/tb_geo/index.html) (Pre-planning for the LS and DS Geonosis TB, interactive)
 22. [**SWGoH Stats Generator** ](https://docs.google.com/spreadsheets/d/1yHeSnZ5W3-IoP7UsZRZib-DcZQp6H1NQWOC5tZhZEo4/edit#gid=1095985326)(Spreadsheet that generates base stats for all characters and ships based on unit progression levels that you set)
+23. [**How Are My Mods Really? Mod-HAMMR will tell you... and more about your SWGOH roster**](https://github.com/BerndFranzen/Mod-HAMMR)
 
 # SWGoH Discord Bots:
 
